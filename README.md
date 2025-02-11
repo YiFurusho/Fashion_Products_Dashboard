@@ -1,6 +1,6 @@
 # Fashion_Products_Dashboard
-# database
-https://www.kaggle.com/datasets/bhanupratapbiswas/fashion-products
+# dataset used
+-<a href="https://www.kaggle.com/datasets/bhanupratapbiswas/fashion-products">Dataset</a>
 # Explanation 
 This dashboard provides an overview of consumer satisfaction, analyzing factors such as ratings, color, size, gender, and product price.
 # Average Rating
