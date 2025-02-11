@@ -13,4 +13,6 @@ The chart breaks down the average price across three consumer groups: Women's fa
 This chart tracks the color preferences of different consumer groups. By selecting the "Colour" and/or "Category" panel, users can compare colour trends across various brands and populations.
 ## Size Trend
 The size preferences of different consumer groups are displayed in this chart. Clicking on the "Size" and/or "Category" panel allows for a comparison of size trends within each brand’s product range.
+## Dashboard
+![Screenshot 2025-02-11 221302](https://github.com/user-attachments/assets/7226977b-9cb2-4a00-8d9a-9247b12bddb9)
 
