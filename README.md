@@ -14,6 +14,6 @@ This chart tracks the color preferences of different consumer groups. By selecti
 ## Size Trend
 The size preferences of different consumer groups are displayed in this chart. Clicking on the "Size" and/or "Category" panel allows for a comparison of size trends within each brand’s product range.
 ## Dashboard
-![Screenshot 2025-02-11 221302](https://github.com/user-attachments/assets/7226977b-9cb2-4a00-8d9a-9247b12bddb9)
+![image](https://github.com/user-attachments/assets/70a5c617-c7c3-4079-adb9-15a2a187e233)
 ## Conclusion:
 The analysis provided by this dashboard offers valuable insights into consumer satisfaction and purchasing behavior across various brands. By examining factors such as ratings, price points, color preferences, and size trends, businesses can identify key patterns and areas for improvement. Brands like Gucci, which receive higher ratings, may benefit from maintaining their current strategies, while others, such as Nike, may consider focusing on enhancing customer satisfaction. Additionally, understanding price sensitivity across different demographics—such as the higher prices for women's and kids' fashion—can guide future pricing strategies. Ultimately, this dashboard serves as a powerful tool for brands to align their offerings with consumer preferences, optimizing both product development and marketing efforts.
